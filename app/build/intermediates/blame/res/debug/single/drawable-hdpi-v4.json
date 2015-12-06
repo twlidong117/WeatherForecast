@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_300.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_300.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_400.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_400.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_501.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_501.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_901.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_901.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_401.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_401.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_102.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_102.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_05.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_05.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_06.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_06.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_502.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_502.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_101.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_101.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_101.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_101.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_402.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_402.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_302.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_302.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_201.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_201.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_201.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_201.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_301.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_301.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_301.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_301.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_313.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_313.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_06.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_06.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/top_bar.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/top_bar.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_mid.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/item_mid.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_10.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_10.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_200.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_200.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_400.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_400.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_07.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_07.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_401.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_401.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weather.xml",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weather.xml"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_bg.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/item_bg.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_bg01.jpg",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/app_bg01.jpg"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_top.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/item_top.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_07.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_07.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_04.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_04.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_500.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_500.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_900.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_900.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_403.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_403.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_103.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_103.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_100.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_100.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_bg02.jpg",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/app_bg02.jpg"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_11.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_11.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_12.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_12.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_404.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_404.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_09.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_09.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_504.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_504.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_104.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_104.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_02.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_02.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_502.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_502.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_312.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_312.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_402.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_402.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_205.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_205.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_diy.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/menu_diy.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_city_manager.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/menu_city_manager.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_313.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_313.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_13.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_13.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_508.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_508.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_17.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_17.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weather.xml",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weather.xml"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_300.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_300.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_303.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_303.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_310.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_310.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_306.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_306.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_309.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_309.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_307.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_307.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_16.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_16.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_304.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_304.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_102.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_102.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_03.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_03.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_08.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_08.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hamburger.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/hamburger.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_bg02.jpg",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/app_bg02.jpg"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_200.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_200.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_diy.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/menu_diy.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_14.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_14.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_15.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_15.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_406.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_406.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_310.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_310.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_306.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_306.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_999.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_999.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_307.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_307.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_01.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_01.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_bg01.jpg",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/app_bg01.jpg"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/top_bar.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/top_bar.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_407.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_407.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_507.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_507.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget_bg.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/widget_bg.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_308.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_308.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_405.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_405.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_305.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_305.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_foot.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/item_foot.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_205.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_205.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_02.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_02.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_208.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_208.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_508.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_508.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_bg.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/item_bg.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_bg03.jpg",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/app_bg03.jpg"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_406.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_406.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_404.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_404.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_407.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_407.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_bg04.jpg",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/app_bg04.jpg"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_15.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_15.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_311.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_311.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_12.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_12.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_503.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_503.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_01.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_01.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_303.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_303.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_top.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/item_top.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_309.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_309.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_03.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_03.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_update.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/menu_update.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_04.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_04.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_304.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_304.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hamburger.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/hamburger.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_bg04.jpg",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/app_bg04.jpg"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_312.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_312.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/widget_bg.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/widget_bg.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_405.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_405.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_17.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_17.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_update.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/menu_update.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_302.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_302.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_305.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_305.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_208.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_208.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_308.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_308.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_foot.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/item_foot.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_09.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_09.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_999.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_999.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_05.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_05.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_501.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_501.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_901.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_901.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_08.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_08.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_10.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_10.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_city_manager.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/menu_city_manager.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_11.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_11.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_504.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_504.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_507.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_507.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_104.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_104.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_13.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_13.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/app_bg03.jpg",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/app_bg03.jpg"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_14.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_condition_14.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_900.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_900.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_condition_16.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_condition_16.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/item_mid.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/item_mid.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_100.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_100.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_500.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_500.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_403.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-hdpi/weathericon_403.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_311.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_311.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_103.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_103.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/weathericon_503.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-hdpi/weathericon_503.png"
+    }
+]

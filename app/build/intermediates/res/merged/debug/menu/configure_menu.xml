@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+       android:id="@+id/menu_changeCity"
+       android:title="@string/change_city"
+       android:icon="@drawable/menu_city_manager"/>
+    <item
+       android:id="@+id/menu_update"
+       android:title="@string/update_weather"
+       android:icon="@drawable/menu_update" />
+    <item
+       android:id="@+id/menu_wallpaper"
+       android:title="@string/wallpaper"
+       android:icon="@drawable/menu_diy" >
+       <menu>
+          <group
+             android:id="@+id/wallpaper_group"
+             android:checkableBehavior="single">
+             <item 
+                 android:id="@+id/wallpaper01"
+                 android:title="@string/wallpaper_text01"/>
+             <item 
+                 android:id="@+id/wallpaper02"
+                 android:title="@string/wallpaper_text02"
+                 android:checked="true"/>
+             <item 
+                 android:id="@+id/wallpaper03"
+                 android:title="@string/wallpaper_text03"/>
+             <item
+                 android:id="@+id/wallpaper04"
+                 android:title="@string/wallpaper_text04"/>
+          </group>
+       </menu>
+    </item>
+</menu>

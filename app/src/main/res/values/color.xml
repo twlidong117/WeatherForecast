@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#333333</color>
+    <color name="gold">#FFD700</color>
+    <color name="lightgoldenrodyellow">#FAFAD2</color>
+    <color name="darkgoldenrod">#B8860B</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="dark">#000000</color>
+
+    <color name="background">#DCDCDD</color>
+    <color name="cardbackground">#46494C</color>
+    <color name="word">#C5C3C6</color>
+    <color name="emphasis">#1985A1</color>
+
+    <color name="bg1">#198576</color>
+    <color name="bg2">#2092DE</color>
+    <color name="bg3">#5C9938</color>
+    <color name="bg4">#ED3B3A</color>
+    <color name="bg5">#E86824</color>
+    <color name="bg6">#DCDCDD</color>
+    <color name="bg7">#101010</color>
+
+</resources>

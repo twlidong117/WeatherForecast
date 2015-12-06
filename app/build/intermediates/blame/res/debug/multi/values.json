@@ -1,0 +1,1190 @@
+[
+    {
+        "outputFile": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endColumn": 44,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 37,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 37,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 37,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 37,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 37,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 627,
+                        "endColumn": 37,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 37,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 37,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endColumn": 37,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 37,
+                        "endOffset": 738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 37,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endColumn": 37,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 37,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 37,
+                        "endOffset": 816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 48,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 48,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 38,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 38,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 47,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 47,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 42,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 42,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 38,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 38,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 584,
+                    "endColumn": 38,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 38,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 54,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 54,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 38,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 38,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 39,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 39,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 38,
+                    "endOffset": 791
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 38,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 796,
+                    "endColumn": 41,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 41,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 41,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 41,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 880,
+                    "endColumn": 44,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 44,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 46,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 46,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 41,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 41,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 46,
+                    "endOffset": 1056
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 46,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1061,
+                    "endColumn": 41,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 41,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1103,
+                    "endColumn": 47,
+                    "endOffset": 1146
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 47,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1151,
+                    "endColumn": 40,
+                    "endOffset": 1187
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 40,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1192,
+                    "endColumn": 49,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 49,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 49,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 537,
+                        "endColumn": 49,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1292,
+                    "endColumn": 49,
+                    "endOffset": 1337
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 49,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1342,
+                    "endColumn": 49,
+                    "endOffset": 1387
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 49,
+                        "endOffset": 684
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endColumn": 44,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 37,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 37,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 37,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 37,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 37,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 627,
+                        "endColumn": 37,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 37,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 37,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endColumn": 37,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 37,
+                        "endOffset": 738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 37,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endColumn": 37,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 37,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 37,
+                        "endOffset": 816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 48,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 48,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 38,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 38,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 47,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 47,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 42,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 503,
+                        "endColumn": 42,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 38,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 38,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 584,
+                    "endColumn": 38,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 38,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 54,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 54,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 38,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 38,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 39,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 39,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 38,
+                    "endOffset": 791
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 38,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 796,
+                    "endColumn": 41,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 41,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 41,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 41,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 880,
+                    "endColumn": 44,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 44,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 46,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 46,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 41,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 41,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 46,
+                    "endOffset": 1056
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 46,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1061,
+                    "endColumn": 41,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 41,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1103,
+                    "endColumn": 47,
+                    "endOffset": 1146
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 47,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1151,
+                    "endColumn": 40,
+                    "endOffset": 1187
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 40,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1192,
+                    "endColumn": 49,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 49,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 49,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 537,
+                        "endColumn": 49,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1292,
+                    "endColumn": 49,
+                    "endOffset": 1337
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 49,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1342,
+                    "endColumn": 49,
+                    "endOffset": 1387
+                },
+                "from": {
+                    "file": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 49,
+                        "endOffset": 684
+                    }
+                }
+            }
+        ]
+    }
+]

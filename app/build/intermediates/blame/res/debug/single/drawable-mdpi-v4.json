@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/gps3.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-mdpi/gps3.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/gps3.png",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-mdpi/gps3.png"
+    }
+]

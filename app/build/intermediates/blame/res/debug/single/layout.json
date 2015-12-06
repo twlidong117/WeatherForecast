@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/layout/drawer_item.xml",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/drawer_item.xml"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/layout/set_city.xml",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/layout/set_city.xml"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/layout/widget_layout.xml",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/layout/widget_layout.xml"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/layout/drawer_item.xml",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/layout/drawer_item.xml"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/layout/gps.xml",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/layout/gps.xml"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/layout/widget_layout.xml",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/widget_layout.xml"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/layout/gps.xml",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/gps.xml"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/layout/set_city.xml",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/set_city.xml"
+    }
+]

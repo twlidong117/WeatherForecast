@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/menu/configure_menu.xml",
+        "source": "/Users/wp/AndroidStudioProjects/WeatherForecast/app/src/main/res/menu/configure_menu.xml"
+    },
+    {
+        "merged": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/build/intermediates/res/merged/debug/menu/configure_menu.xml",
+        "source": "/Users/wp/AndroidStudioProjects/手机天气预报系统/app/src/main/res/menu/configure_menu.xml"
+    }
+]

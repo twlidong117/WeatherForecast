@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_3434b3844ed16103bee0bcdc4f6e8c60a21a1b7b.jar" />
+    </item>
+    <item
+        jar="/Users/wp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_2e07c1b6cee253974bc0583e6c1f60c5a55367d2.jar" />
+    </item>
+    <item
+        jar="/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/wp/AndroidStudioProjects/WeatherForecast/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_88ce0bf52ea3b2e23827c8e3e46894d28995995e.jar" />
+    </item>
+
+</items>

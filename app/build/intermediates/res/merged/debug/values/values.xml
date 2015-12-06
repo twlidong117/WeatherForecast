@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#DCDCDD</color>
+    <color name="bg1">#198576</color>
+    <color name="bg2">#2092DE</color>
+    <color name="bg3">#5C9938</color>
+    <color name="bg4">#ED3B3A</color>
+    <color name="bg5">#E86824</color>
+    <color name="bg6">#DCDCDD</color>
+    <color name="bg7">#101010</color>
+    <color name="cardbackground">#46494C</color>
+    <color name="dark">#000000</color>
+    <color name="darkgoldenrod">#B8860B</color>
+    <color name="emphasis">#1985A1</color>
+    <color name="gold">#FFD700</color>
+    <color name="gray">#333333</color>
+    <color name="lightgoldenrodyellow">#FAFAD2</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="word">#C5C3C6</color>
+    <string name="app_name">天气预报</string>
+    <string name="auto_add">自动选择</string>
+    <string name="change_city">设置城市</string>
+    <string name="filter_hint">输入城市名称</string>
+    <string name="head_add">手动选择</string>
+    <string name="locale_city">定位当前城市</string>
+    <string name="set_city">设置城市</string>
+    <string name="update_weather">更新天气</string>
+    <string name="wallpaper">壁纸</string>
+    <string name="wallpaper_text01">青色小路</string>
+    <string name="wallpaper_text02">夕日晚霞</string>
+    <string name="wallpaper_text03">深色海洋</string>
+    <string name="wallpaper_text04">魔幻古堡</string>
+</resources>
